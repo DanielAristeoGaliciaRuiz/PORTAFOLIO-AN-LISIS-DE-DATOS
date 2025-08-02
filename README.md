@@ -45,6 +45,16 @@ Análisis estructurado de la evolución de casos, muertes y vacunación desde ar
 - **Competencias**: Modelado estadístico, limpieza de datos, visualización, análisis exploratorio, segmentación, machine learning básico
 
 ---
+---
+
+**Análisis de Desempeño Comercial con Power BI – Plant Co.**
+
+**Tecnologías**: Power BI, DAX, Power Query, Excel  
+Dashboard interactivo que evalúa el rendimiento de ventas por cantidad en una empresa ficticia del sector botánico. Incluye métricas YTD y PYTD, segmentación por rentabilidad de cuentas y análisis comparativo entre países. Implementa medidas dinámicas con `SWITCH`, visuales como *waterfall*, *scatter* y *treemap*, y un diseño profesional orientado a toma de decisiones.
+
+[Ver proyecto](./Análisis_De_Desempeño_Comercial_Usando_PowerBI)
+
+---
 
 ## Contacto
 
