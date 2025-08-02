@@ -1,5 +1,7 @@
 # Análisis de Desempeño Comercial con Power BI  
 **Proyecto: Plant Co. Quantity Performance 2023**
+[Ver Dashboard en Power BI Service](https://app.powerbi.com/groups/me/reports/5353f6e1-93e8-4856-a5eb-9b53463e44c1/0222e95e09175e26f008?experience=power-bi)
+
 
 ---
 
